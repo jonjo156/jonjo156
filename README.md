@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Jonjo Wadwa
-#### I am flutter and firebase developer
+#### I am a Flutter and Firebase developer
 
 I have been working with flutter and firebase for more than two years now, I have been working with several startups from different countries. I have completed almost 45+ projects on fiverr for clients. 
 
@@ -22,4 +22,6 @@ Skills: FLUTTER / FIREBASE / PYTHON / HTML / CSS / CLOUD
 
 Support Me:
 
-<a href='https://ko-fi.com/H2H834ROB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://www.paypal.com/donate/?token=I1WP49zUyyBxlxU5m6eO-Ez_Nubz2HnHKmlhbhe4qezqMqW1Ro2CV4HvQV7YP0iFigw51BE0ggslwSC-&locale.x=EN_US' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+Support Me:
+
+<a href='https://www.paypal.com/donate/?token=I1WP49zUyyBxlxU5m6eO-Ez_Nubz2HnHKmlhbhe4qezqMqW1Ro2CV4HvQV7YP0iFigw51BE0ggslwSC-&locale.x=EN_US' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
