@@ -1,7 +1,9 @@
 ### Hi there 👋, My name is Jonjo Wadwa
 #### I am a Flutter and Firebase developer
 
-I have been working with flutter and firebase for more than two years now, I have been working with several startups from different countries. I have completed almost 45+ projects on fiverr for clients. 
+My Name is Jonjo and I am a Co-Founder of Happy Joe App (Links to an external site.) , an application designed to democratise the nutritional information of foods found in restaurants.
+
+I graduated from the University of Loughborough in Economics & Politics before taking up various roles in trading & finance where I learnt the fundamentals of automation and algorithmic trading. As a result, I am heavily involved in heading up and managing our technology processes here at Happy Joe.
 
 Skills: FLUTTER / FIREBASE / PYTHON / HTML / CSS / CLOUD
 
