@@ -23,8 +23,4 @@ Skills: FLUTTER / FIREBASE / PYTHON / HTML / CSS / DJANGO / SQL / NoSQL
 
 Support Me:
 
-<img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="Donate">
-
-Support Me:
-
 <a href='https://www.paypal.com/donate/?token=I1WP49zUyyBxlxU5m6eO-Ez_Nubz2HnHKmlhbhe4qezqMqW1Ro2CV4HvQV7YP0iFigw51BE0ggslwSC-&locale.x=EN_US' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
