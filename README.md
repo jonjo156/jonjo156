@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My Name is Jonjo and I am a Co-Founder of Happy Joe App, an application designed to democratise the nutritional information of foods found in restaurants.
+My Name is Jonjo and I am an exited Co-Founder of Happy Joe App, an application designed to democratise the nutritional information of foods found in restaurants. After building the app of my dreams, I now help people build the app of their dreams.
 
 I graduated from the University of Loughborough in Economics & Politics before taking up various roles in trading & finance where I learnt the fundamentals of automation and algorithmic trading. As a result, I am heavily involved in heading up and managing our technology processes here at Happy Joe.
 
-Skills: FLUTTER / FIREBASE / PYTHON / HTML / CSS / DJANGO / SQL / NoSQL
+Skills: FLUTTER / FIREBASE / PYTHON / FLASK / HTML / CSS / DJANGO / SQL / NoSQL
 
 - 🌱 I am Co-Founder of Happy Joe App 
 - 🔭 I am studying Data Science
 - 👯 I’m looking to collaborate on Algorithmic Trading projects
 - 💬 Ask me about Flutter & Firebase 
-- 📫 View my portfolio here: [portfolio](http://levistumcapital.com/app-portfolio/#sec1) 
+- 📫 View my portfolio here: [portfolio](https://jonjowadwa.com/?page_id=18) 
 
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
